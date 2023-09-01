@@ -1,0 +1,12 @@
+non - linear ds
+root
+parent
+leaf
+
+
+if(mutiple child)
+node
+{
+    int data
+    list<node* >child;
+}
